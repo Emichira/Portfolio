@@ -1,0 +1,17 @@
+.profile-image {
+  border-radius: 50%;
+  width: 300px;
+}
+
+#align {
+  text-align: center;
+}
+
+#screenshots {
+  height: 340px;
+  max-width: 100%;
+}
+
+#justified {
+  text-align: left;
+}
